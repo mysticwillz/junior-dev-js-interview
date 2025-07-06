@@ -1,4 +1,4 @@
-# Junior Dev JS Interview
+# Junior Dev JAVASCRIPT Interview
 
 A curated collection of JavaScript interview questions and coding exercises tailored for junior developers.
 
