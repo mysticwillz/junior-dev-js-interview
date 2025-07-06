@@ -2,14 +2,14 @@
 
 A curated collection of JavaScript interview questions and coding exercises tailored for junior developers.
 
-## 📚 What You'll Find
+##  What You'll Find
 
 - Real-world interview questions
 - Code snippets and explanations
 - Beginner-friendly challenges
 - A roadmap to guide your learning
 
-## 🧠 Topics Covered
+##  Topics Covered
 
 - JavaScript Fundamentals
 - DOM Manipulation
@@ -18,7 +18,7 @@ A curated collection of JavaScript interview questions and coding exercises tail
 - Arrays & Objects
 - Coding Exercises
 
-## 🛠️ How to Contribute
+##  How to Contribute
 
 Found a great question? Submit a PR or open an issue!
 
@@ -26,4 +26,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 
 ## ⭐ Star This Repo
 
-If this helps you or someone else, consider giving it a star!
+If this helps you or someone else, consider giving it a star ⭐ !!!!!!!
